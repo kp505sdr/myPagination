@@ -1,0 +1,12 @@
+.pagination {
+  display: flex;
+  margin-top: 40px;
+
+  justify-content: space-between;
+}
+.pagination > button {
+  padding: 10px;
+}
+#btn1 {
+  background-color: lightseagreen;
+}
